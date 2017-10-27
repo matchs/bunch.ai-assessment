@@ -6,6 +6,7 @@ import {
 
 const {
     base : baseURL,
+    dimensions: dimensionsPath,
 } = api.REST.paths;
 
 const request = axios.create({
@@ -13,3 +14,4 @@ const request = axios.create({
     timeout: api.REST.timeout,
 });
 
+export const fetchDimensions = () => request.get(dimensionsPath).then((r) => r.data);
