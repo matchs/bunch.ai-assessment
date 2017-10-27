@@ -1,0 +1,264 @@
+{
+      "dimensions": {
+            "adaptative":    [
+                     {
+                  "id": "b1fc831f-d5ce-4f0a-b35d-e1cbe3fbaa62",
+                  "sentence": "Lorem ipsum massa euismod felis suspendisse leo ligula ac ante tristique nisl."
+               },
+                     {
+                  "id": "3b465a1e-1811-4cd7-8048-6ced7bdaca15",
+                  "sentence": "Lorem ipsum senectus per tortor convallis parturient sollicitudin non faucibus penatibus sodales."
+               },
+                     {
+                  "id": "3fc40119-f2b9-45c0-befe-d61a7ae26263",
+                  "sentence": "Lorem ipsum sed pulvinar habitant eleifend magna dapibus dapibus ad morbi morbi maecenas integer."
+               },
+                     {
+                  "id": "f9cc845b-acf9-4300-ba31-347be5658098",
+                  "sentence": "Lorem ipsum nam nec pellentesque vehicula feugiat in interdum nam lacus curae;."
+               },
+                     {
+                  "id": "9d041272-39ba-454e-8f64-139ff30d561e",
+                  "sentence": "Lorem ipsum faucibus sapien ornare odio tempor dui nunc hac est."
+               },
+                     {
+                  "id": "5a71ce5b-b406-4528-8613-dcab75b6fcfd",
+                  "sentence": "Lorem ipsum mollis sit at at accumsan amet donec scelerisque vulputate hac."
+               },
+                     {
+                  "id": "49c6766a-a04a-4acd-a322-ab7c70c2cee9",
+                  "sentence": "Lorem ipsum vulputate pulvinar tempus venenatis quam pharetra justo nisl quisque ut."
+               },
+                     {
+                  "id": "c7a0260f-41c6-49b3-a254-31e60559c707",
+                  "sentence": "Lorem ipsum suspendisse vestibulum facilisi mi maecenas massa curabitur justo elit taciti."
+               },
+                     {
+                  "id": "65ccc29d-8fad-407b-af6d-9bec96ff4de4",
+                  "sentence": "Lorem ipsum lacinia fusce nibh condimentum potenti non venenatis ipsum."
+               },
+                     {
+                  "id": "b7aa6d81-ad43-49c7-ad83-befcaecec5c3",
+                  "sentence": "Lorem ipsum aptent odio semper aenean eu est himenaeos auctor placerat."
+               }
+            ],
+            "collaborative":    [
+                     {
+                  "id": "7d659375-cbbe-48a0-963e-fcc5ef49996f",
+                  "sentence": "Lorem ipsum tortor fusce in lorem curae; lacinia mi pharetra euismod ridiculus."
+               },
+                     {
+                  "id": "ac228cf6-7151-4ddf-a998-395d500928d8",
+                  "sentence": "Lorem ipsum blandit dignissim iaculis sed neque arcu, nisl penatibus vehicula magnis fusce senectus."
+               },
+                     {
+                  "id": "4fcf961a-7e7b-4b26-a136-22067dc4cb3c",
+                  "sentence": "Lorem ipsum auctor et laoreet nostra velit dolor enim curae; libero inceptos."
+               },
+                     {
+                  "id": "0ed3c0f7-7594-4802-876c-effbc90f4eec",
+                  "sentence": "Lorem ipsum consectetur non mauris a scelerisque porta non, libero mattis vestibulum."
+               },
+                     {
+                  "id": "7a53eea1-6f1b-47a5-920b-4c35fac8d629",
+                  "sentence": "Lorem ipsum orci eros vitae diam rutrum ac tempus condimentum dignissim."
+               },
+                     {
+                  "id": "eacdb0b5-6c82-4c98-9d47-c1e038c2db3e",
+                  "sentence": "Lorem ipsum pellentesque ad elementum eleifend blandit dictumst habitant ridiculus suscipit tempus ut sociis."
+               },
+                     {
+                  "id": "1161195c-77b0-4f95-bfbd-29fe737f2b80",
+                  "sentence": "Lorem ipsum nascetur consectetur odio suscipit neque suspendisse pharetra quisque faucibus nam."
+               },
+                     {
+                  "id": "6aeb8b94-3985-4e8a-adca-13aef68cfdeb",
+                  "sentence": "Lorem ipsum donec dui in libero rutrum accumsan felis ut primis."
+               },
+                     {
+                  "id": "ecc835a2-6df3-4f7c-a6e5-de2980abe2e5",
+                  "sentence": "Lorem ipsum aptent cursus vehicula in vestibulum aliquam laoreet, parturient netus magna habitant."
+               },
+                     {
+                  "id": "2ab8f117-79d7-427d-81be-90707432ef43",
+                  "sentence": "Lorem ipsum sociosqu suspendisse magna himenaeos a accumsan leo commodo."
+               }
+            ],
+            "result":    [
+                     {
+                  "id": "400f2529-0601-45b7-a81e-233e9f09fae8",
+                  "sentence": "Lorem ipsum vulputate adipiscing imperdiet cum imperdiet vulputate ultrices primis."
+               },
+                     {
+                  "id": "73a30a7f-5a06-4842-8cbd-68d9e3bfb1f1",
+                  "sentence": "Lorem ipsum a est convallis torquent cubilia, et ante aptent nisl erat posuere."
+               },
+                     {
+                  "id": "ef4f7bf6-eafc-4a23-a88c-9348867e5c80",
+                  "sentence": "Lorem ipsum volutpat fusce suscipit etiam nisi nibh et quisque tortor?"
+               },
+                     {
+                  "id": "6e7efc1a-b115-4b9e-8709-78d0ee7bdc65",
+                  "sentence": "Lorem ipsum tincidunt donec nisi tellus vestibulum nascetur posuere proin eget netus."
+               },
+                     {
+                  "id": "a1b0e0b0-dd24-46f0-a2c6-756f85c0ee68",
+                  "sentence": "Lorem ipsum cum a ultricies per rutrum maecenas in ultricies et iaculis litora sit."
+               },
+                     {
+                  "id": "4640c5bb-5695-4ce1-bd75-af2e65c322fd",
+                  "sentence": "Lorem ipsum parturient cum congue lacinia eros varius integer magnis condimentum ut vel."
+               },
+                     {
+                  "id": "653b8bc3-9ea2-4ad5-8465-10baa4a33b0d",
+                  "sentence": "Lorem ipsum congue rutrum commodo neque sociis ligula ante egestas viverra tincidunt."
+               },
+                     {
+                  "id": "f04fa32b-98d7-4162-9d68-41c2ddf7df9a",
+                  "sentence": "Lorem ipsum in, suscipit ac urna ullamcorper mi elementum hendrerit."
+               },
+                     {
+                  "id": "7e7fdd0d-9dcb-41b8-bcfe-a06b05b3fd34",
+                  "sentence": "Lorem ipsum metus, tincidunt maecenas diam sociosqu nunc proin ornare arcu."
+               },
+                     {
+                  "id": "e6305c48-1776-4b48-8cda-32f1f5143c4c",
+                  "sentence": "Lorem ipsum id curabitur penatibus facilisi nulla congue curae; hac, in nam."
+               }
+            ],
+            "customer":    [
+                     {
+                  "id": "d16c5bb1-ce4a-4997-9334-478a2608f95a",
+                  "sentence": "Lorem ipsum eleifend fringilla porta nulla justo aliquam sodales ligula?"
+               },
+                     {
+                  "id": "ec576a89-124a-478b-93ff-b72d35ea7a37",
+                  "sentence": "Lorem ipsum habitasse eros nisl risus maecenas at urna potenti vestibulum senectus non."
+               },
+                     {
+                  "id": "801e3c8e-5eb0-4851-ac46-5156f72ca081",
+                  "sentence": "Lorem ipsum lobortis mattis, sapien magna euismod feugiat amet non consequat."
+               },
+                     {
+                  "id": "51b34562-4d6b-46fb-ac3e-ab73d175043d",
+                  "sentence": "Lorem ipsum habitasse bibendum parturient fusce sem, eu aptent mattis condimentum."
+               },
+                     {
+                  "id": "2c2a823d-1e71-4ffd-b3b2-2b52611fe28b",
+                  "sentence": "Lorem ipsum eros velit turpis eget mauris aliquet venenatis odio velit non class."
+               },
+                     {
+                  "id": "69ed4d0d-88f8-4033-ba5d-28e34f2efd1c",
+                  "sentence": "Lorem ipsum mus, fermentum proin luctus urna elementum lacus ac."
+               },
+                     {
+                  "id": "271ea5bf-1132-49cd-8329-d93198c03b1b",
+                  "sentence": "Lorem ipsum scelerisque risus cubilia massa bibendum vel fringilla convallis quisque scelerisque etiam!"
+               },
+                     {
+                  "id": "08b077d6-6bd4-4ee7-ad1b-4fa9c4d7adf1",
+                  "sentence": "Lorem ipsum penatibus aptent porttitor sodales tempor ultricies habitasse mollis blandit scelerisque est consectetur."
+               },
+                     {
+                  "id": "679368ec-a7a0-49ca-8da6-fd64103be4c8",
+                  "sentence": "Lorem ipsum metus gravida vel malesuada purus himenaeos, viverra at ac lacus lectus?"
+               },
+                     {
+                  "id": "dd9abf66-2d67-436d-9f51-6a29a472e6d6",
+                  "sentence": "Lorem ipsum dapibus etiam aliquet nisi, nam porta iaculis ultrices tincidunt dictumst."
+               }
+            ],
+            "detail":    [
+                     {
+                  "id": "dd2ef9d7-57b2-4109-9dd7-163133d826fe",
+                  "sentence": "Lorem ipsum sed pretium natoque etiam sociis molestie enim aenean libero luctus aptent!"
+               },
+                     {
+                  "id": "40ce0257-33f5-4549-95fb-cf95ce487e6d",
+                  "sentence": "Lorem ipsum dis libero sagittis ultrices sociis auctor purus elementum purus."
+               },
+                     {
+                  "id": "131fd151-e86b-4265-84fd-0063b52b2434",
+                  "sentence": "Lorem ipsum elit donec netus lobortis ultricies pulvinar ullamcorper suspendisse lacus semper netus."
+               },
+                     {
+                  "id": "b31a4403-9835-4b53-87a7-73e01f87e52b",
+                  "sentence": "Lorem ipsum commodo at vehicula dictumst tellus suscipit sem maecenas duis nascetur."
+               },
+                     {
+                  "id": "06f33a4a-8395-4893-955a-3465cb692412",
+                  "sentence": "Lorem ipsum sapien imperdiet ligula nascetur habitant litora nec pretium, odio rutrum."
+               },
+                     {
+                  "id": "a352e85c-e289-46ee-b2d8-b60130aefc6a",
+                  "sentence": "Lorem ipsum commodo orci varius orci accumsan conubia facilisis rutrum."
+               },
+                     {
+                  "id": "a43b5bdf-d610-4700-9163-a1a26da1251e",
+                  "sentence": "Lorem ipsum congue sed molestie ad consequat donec hac nulla."
+               },
+                     {
+                  "id": "cd4a295b-aaef-4c22-9b7f-0ebba8a5f74b",
+                  "sentence": "Lorem ipsum fames rutrum quis elementum placerat eu suspendisse sociis urna."
+               },
+                     {
+                  "id": "2acef812-b3e0-4434-9dc5-a8d43120003b",
+                  "sentence": "Lorem ipsum vestibulum blandit nisi nisi cras in, metus dictum varius."
+               },
+                     {
+                  "id": "e21fc105-a0d6-4b16-a88d-8b9a24202c46",
+                  "sentence": "Lorem ipsum vivamus sociosqu phasellus urna dignissim ridiculus curae; a libero eget?"
+               }
+            ],
+            "integrity":    [
+                     {
+                  "id": "f819a30f-5b43-45de-b36b-fe386d27f197",
+                  "sentence": "Lorem ipsum feugiat bibendum, ad integer fusce egestas aliquet duis turpis nullam metus."
+               },
+                     {
+                  "id": "d8ba2240-0aea-40ee-a557-582e5fdda121",
+                  "sentence": "Lorem ipsum gravida convallis orci litora inceptos at sollicitudin mus."
+               },
+                     {
+                  "id": "4b20765b-1619-442b-be79-e5122bd9f155",
+                  "sentence": "Lorem ipsum vivamus tempus enim massa eleifend senectus integer est est habitasse."
+               },
+                     {
+                  "id": "e1175458-346a-491a-8c39-f1e64865c811",
+                  "sentence": "Lorem ipsum porta molestie nec netus erat convallis mauris magnis urna nostra vivamus."
+               },
+                     {
+                  "id": "1d3985c7-58c6-446d-b4fa-4a49038308e1",
+                  "sentence": "Lorem ipsum in semper tellus porta magna tellus consectetur suspendisse etiam vel."
+               },
+                     {
+                  "id": "b78cfbc0-bd75-4a15-92fd-31f3daea4f78",
+                  "sentence": "Lorem ipsum ad eleifend nostra mollis lectus est fermentum metus mollis porttitor imperdiet."
+               },
+                     {
+                  "id": "5413decf-5f2c-4dcc-b0c1-ebbf78842b5d",
+                  "sentence": "Lorem ipsum convallis in aptent luctus quisque scelerisque velit maecenas varius elit condimentum."
+               },
+                     {
+                  "id": "92c2546a-5789-462f-82e7-c98684c99fcb",
+                  "sentence": "Lorem ipsum velit velit rutrum etiam sodales dictum molestie proin dignissim semper!"
+               },
+                     {
+                  "id": "3a68eb12-3d52-4a85-86c0-10d36ac73d87",
+                  "sentence": "Lorem ipsum eros conubia auctor hendrerit dapibus aliquam sem risus sociosqu sociis quam nostra."
+               },
+                     {
+                  "id": "dee74d12-3bcd-442e-815d-7b1b5624d22c",
+                  "sentence": "Lorem ipsum elit sociis cum pulvinar neque senectus fringilla orci porta egestas facilisis."
+               }
+            ]
+      },
+      "answers": {
+            "adaptative": 0,
+            "collaborative": 0,
+            "result": 0,
+            "customer": 0,
+            "detail": 0,
+            "integrity": 0
+      }
+ }
